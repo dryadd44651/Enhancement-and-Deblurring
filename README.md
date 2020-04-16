@@ -10,5 +10,5 @@
 <b>Enhancement</b>
 -	Applied a heuristic algorithm PSO for optimal image brightness and contrast.
 
-<img src="https://github.com/dryadd44651/Enhancement-and-Deblurring/blob/master/enhance.JPG?raw=true" alt="Smiley face" height=300rem >
+<img src="https://github.com/dryadd44651/Enhancement-and-Deblurring/blob/master/enhance.jpg?raw=true" alt="Smiley face" height=300rem >
 
