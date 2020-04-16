@@ -1,0 +1,111 @@
+﻿  DelurEnhance.cpp
+e:\desktop\program\delurenhance\delurenhance\api.h(103): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+e:\desktop\program\delurenhance\delurenhance\api.h(111): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\desktop\program\delurenhance\delurenhance\api.h(170): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+e:\desktop\program\delurenhance\delurenhance\api.h(211): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+e:\desktop\program\delurenhance\delurenhance\api.h(221): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\desktop\program\delurenhance\delurenhance\api.h(255): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\desktop\program\delurenhance\delurenhance\api.h(270): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\desktop\program\delurenhance\delurenhance\api.h(448): warning C4244: 'argument': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+e:\desktop\program\delurenhance\delurenhance\api.h(453): warning C4244: 'argument': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+e:\desktop\program\delurenhance\delurenhance\api.h(458): warning C4244: '=': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=uchar
+          ]
+e:\desktop\program\delurenhance\delurenhance\api.h(477): warning C4244: '+=': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+e:\desktop\program\delurenhance\delurenhance\api.h(495): warning C4244: '+=': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+e:\desktop\program\delurenhance\delurenhance\api.h(545): warning C4018: '<': signed/unsigned mismatch
+e:\desktop\program\delurenhance\delurenhance\api.h(595): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+e:\desktop\program\delurenhance\delurenhance\api.h(652): warning C4244: '=': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+e:\desktop\program\delurenhance\delurenhance\api.h(708): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\desktop\program\delurenhance\delurenhance\api.h(722): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\desktop\program\delurenhance\delurenhance\api.h(723): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\desktop\program\delurenhance\delurenhance\api.h(724): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\desktop\program\delurenhance\delurenhance\api.h(733): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\desktop\program\delurenhance\delurenhance\api.h(735): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\desktop\program\delurenhance\delurenhance\api.h(736): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\desktop\program\delurenhance\delurenhance\api.h(750): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\desktop\program\delurenhance\delurenhance\api.h(761): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\desktop\program\delurenhance\delurenhance\api.h(762): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\desktop\program\delurenhance\delurenhance\api.h(763): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\desktop\program\delurenhance\delurenhance\api.h(772): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\desktop\program\delurenhance\delurenhance\api.h(773): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\desktop\program\delurenhance\delurenhance\api.h(777): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\desktop\program\delurenhance\delurenhance\api.h(783): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\desktop\program\delurenhance\delurenhance\api.h(784): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\desktop\program\delurenhance\delurenhance\pso.h(33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\desktop\program\delurenhance\delurenhance\pso.h(35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\desktop\program\delurenhance\delurenhance\pso.h(44): warning C4018: '<': signed/unsigned mismatch
+e:\desktop\program\delurenhance\delurenhance\pso.h(45): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\desktop\program\delurenhance\delurenhance\pso.h(49): warning C4018: '<': signed/unsigned mismatch
+e:\desktop\program\delurenhance\delurenhance\pso.h(52): warning C4018: '<': signed/unsigned mismatch
+e:\desktop\program\delurenhance\delurenhance\pso.h(61): warning C4018: '<': signed/unsigned mismatch
+e:\desktop\program\delurenhance\delurenhance\pso.h(64): warning C4018: '<': signed/unsigned mismatch
+e:\desktop\program\delurenhance\delurenhance\pso.h(98): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\desktop\program\delurenhance\delurenhance\pso.h(100): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\desktop\program\delurenhance\delurenhance\pso.h(103): warning C4018: '<': signed/unsigned mismatch
+e:\desktop\program\delurenhance\delurenhance\pso_enhancement.h(60): warning C4138: '*/' found outside of comment
+e:\desktop\program\delurenhance\delurenhance\pso_enhancement.h(62): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+e:\desktop\program\delurenhance\delurenhance\pso_enhancement.h(77): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+e:\desktop\program\delurenhance\delurenhance\pso_enhancement.h(82): warning C4305: 'argument': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+e:\desktop\program\delurenhance\delurenhance\pso_enhancement.h(144): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+e:\desktop\program\delurenhance\delurenhance\pso_enhancement.h(151): warning C4018: '<': signed/unsigned mismatch
+e:\desktop\program\delurenhance\delurenhance\delurenhance.cpp(36): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\desktop\program\delurenhance\delurenhance\delurenhance.cpp(83): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+e:\desktop\program\delurenhance\delurenhance\delurenhance.cpp(83): warning C4305: 'initializing': truncation from 'int' to 'char'
+e:\desktop\program\delurenhance\delurenhance\delurenhance.cpp(83): warning C4309: 'initializing': truncation of constant value
+LINK : warning LNK4031: no subsystem specified; CONSOLE assumed
+opencv_world340d.lib(opencv_world340d.dll) : fatal error LNK1112: module machine type 'x64' conflicts with target machine type 'x86'

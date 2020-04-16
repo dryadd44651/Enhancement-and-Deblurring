@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DelurEnhance", "DelurEnhance\DelurEnhance.vcxproj", "{D1338EFD-6477-41C0-8A2D-A18E58E36E46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1338EFD-6477-41C0-8A2D-A18E58E36E46}.Debug|x64.ActiveCfg = Debug|x64
+		{D1338EFD-6477-41C0-8A2D-A18E58E36E46}.Debug|x64.Build.0 = Debug|x64
+		{D1338EFD-6477-41C0-8A2D-A18E58E36E46}.Debug|x86.ActiveCfg = Debug|x64
+		{D1338EFD-6477-41C0-8A2D-A18E58E36E46}.Debug|x86.Build.0 = Debug|x64
+		{D1338EFD-6477-41C0-8A2D-A18E58E36E46}.Release|x64.ActiveCfg = Debug|x64
+		{D1338EFD-6477-41C0-8A2D-A18E58E36E46}.Release|x64.Build.0 = Debug|x64
+		{D1338EFD-6477-41C0-8A2D-A18E58E36E46}.Release|x86.ActiveCfg = Debug|x64
+		{D1338EFD-6477-41C0-8A2D-A18E58E36E46}.Release|x86.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B197328-0CD5-4865-8005-86C3E1E10B56}
+	EndGlobalSection
+EndGlobal
