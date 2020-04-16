@@ -1,4 +1,5 @@
 OpenCV based Image Enhancement and Deblurring System
+
 <b>Deblurring</b>
 -	Implemented Tikhonov regularization with edge enhanced image for blur kernel estimation
 -	Implemented HQS (half splitting quadratic) with FFT for image deconvolution
