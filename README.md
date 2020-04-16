@@ -9,7 +9,7 @@ img {
   max-width: 100%;
   height: auto;
 }
-<img src="https://github.com/dryadd44651/Enhancement-and-Deblurring/blob/master/deblur.JPG?raw=true" alt="Smiley face" height="42" width="42">
+<img src="https://github.com/dryadd44651/Enhancement-and-Deblurring/blob/master/deblur.JPG?raw=true" alt="Smiley face" height=20% width="30%>
 
 <b>Enhancement</b>
 -	Applied a heuristic algorithm PSO for optimal image brightness and contrast.
