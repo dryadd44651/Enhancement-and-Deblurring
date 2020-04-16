@@ -6,7 +6,7 @@
 
 ![alt text](https://github.com/dryadd44651/Enhancement-and-Deblurring/blob/master/deblur.JPG?raw=true)
 
-<img src="https://github.com/dryadd44651/Enhancement-and-Deblurring/blob/master/deblur.JPG?raw=true" alt="Smiley face" height=100rem width=100rem>
+<img src="https://github.com/dryadd44651/Enhancement-and-Deblurring/blob/master/deblur.JPG?raw=true" alt="Smiley face" height=1000rem width=1000rem>
 
 <b>Enhancement</b>
 -	Applied a heuristic algorithm PSO for optimal image brightness and contrast.
