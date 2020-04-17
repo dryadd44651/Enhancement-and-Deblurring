@@ -10,6 +10,6 @@
 <b>Enhancement</b>
 -	Applied a heuristic algorithm PSO for optimal image brightness and contrast.
 
-<img src="https://github.com/dryadd44651/Enhancement-and-Deblurring/blob/master/enhance.jpg?raw=true" alt="enhance" style="width:90;">
+<img src="https://github.com/dryadd44651/Enhancement-and-Deblurring/blob/master/enhance.jpg?raw=true" alt="enhance"  width="200" height="400">
 
 Publish: https://ieeexplore.ieee.org/document/8397472
