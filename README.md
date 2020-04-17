@@ -5,11 +5,11 @@
 -	Implemented HQS (half splitting quadratic) with FFT for image deconvolution
 
 
-<img src="https://github.com/dryadd44651/Enhancement-and-Deblurring/blob/master/deblur.JPG?raw=true" alt="deblur" weight=50em >
+<img src="https://github.com/dryadd44651/Enhancement-and-Deblurring/blob/master/deblur.JPG?raw=true" alt="deblur" weight="50em" >
 
 <b>Enhancement</b>
 -	Applied a heuristic algorithm PSO for optimal image brightness and contrast.
 
-<img src="https://github.com/dryadd44651/Enhancement-and-Deblurring/blob/master/enhance.jpg?raw=true" alt="enhance"  width="200" height="400">
+<img src="https://github.com/dryadd44651/Enhancement-and-Deblurring/blob/master/enhance.jpg?raw=true" alt="enhance"  width="400">
 
 Publish: https://ieeexplore.ieee.org/document/8397472
